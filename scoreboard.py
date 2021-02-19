@@ -1,7 +1,6 @@
 from turtle import Turtle
 
 
-
 FONT = ("Courier", 16, "normal")
 FONT2 = ("Courier", 100, "bold")
 FONT3 = ("Courier", 16, "normal")
